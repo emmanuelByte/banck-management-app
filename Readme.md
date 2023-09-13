@@ -86,3 +86,5 @@ try {
 4. Click Submit: The system will process your request and display the result or any relevant messages.
 
 By following the above steps, you can effectively use the Bank Account Management tool. Happy Banking!
+
+![alt text](bank-preview.png)
