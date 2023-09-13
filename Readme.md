@@ -1,6 +1,6 @@
 # Bank Account Management - Project Walkthrough
 
-Welcome to the Bank Account Management tool. This application simulates a simple banking system where users can deposit, withdraw, and check their balance. In this document, we'll guide you on how the system works and break down how we've incorporated JavaScript classes, switch statements, and try-catch-finally constructs.
+Welcome to the Bank Account Management tool. This application simulates a simple banking system where users can deposit, withdraw, and check their balance. In this document, I will guide you on how the system works and break down how I've incorporated JavaScript classes, switch statements, and try-catch-finally constructs.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the Bank Account Management tool. This application simulates a simple
 
 ### **The BankAccount Class**
 
-With the introduction of ES6, JavaScript added the `class` keyword. This modern feature provides a more structured and intuitive approach to defining and working with object constructors. Here's how it's used in our application:
+With the introduction of ES6, JavaScript added the `class` keyword. This modern feature provides a more structured and intuitive approach to defining and working with object constructors. Here's how it's used in the application:
 
 ```javascript
 class BankAccount {
@@ -45,7 +45,7 @@ The above code snippet shows the core structure of the BankAccount class, which 
 
 ## Switch Statements
 
-In our application, the user's choice of action (deposit, withdraw, or check balance) is determined using a switch statement. This ensures a clean and concise way of handling multiple conditions. An example from our code:
+In the application, the user's choice of action (deposit, withdraw, or check balance) is determined using a switch statement. This ensures a clean and concise way of handling multiple conditions. An example from the code:
 
 ```js
 switch (action) {
